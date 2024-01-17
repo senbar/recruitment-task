@@ -1,0 +1,21 @@
+{
+  "name": "innergy-typescript-task",
+  "version": "1.0.0",
+  "description": "Task for candidates for innergy developers",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "Innergy",
+  "devDependencies": {
+    "@types/jest": "25.2.3",
+    "jest": "26.0.1",
+    "ts-jest": "26.0.0",
+    "typescript": "3.9.3"
+  }
+}
